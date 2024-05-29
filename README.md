@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gaborondon
+- 👀 I’m interested in anything netcode, gamedev and fullstack related
+- 🌱 I’m currently learning netcode and packet sniffing
+- 📫 How to reach me https://x.com/GaboRondix
